@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1"
+	fx:controller="investimento.control.RootController">
+	<center>
+		<AnchorPane prefHeight="292.0" prefWidth="454.0"
+			stylesheets="@../../investimento/view/Button.css" BorderPane.alignment="CENTER">
+			<children>
+				<Button fx:id="btnPoupanca" layoutX="235.0" layoutY="21.0"
+					mnemonicParsing="false" onAction="#changeScreen" prefHeight="118.0"
+					prefWidth="200.0" text="Simulador Poupança" textAlignment="CENTER"
+					wrapText="true" />
+				<Button fx:id="btnComparativo" layoutX="127.0" layoutY="154.0"
+					mnemonicParsing="false" onAction="#changeScreen" prefHeight="118.0"
+					prefWidth="200.0" text="Comparativo Poupança vs CDB" textAlignment="CENTER"
+					wrapText="true" />
+				<Button fx:id="btnCDB" layoutX="19.0" layoutY="21.0"
+					mnemonicParsing="false" onAction="#changeScreen" prefHeight="118.0"
+					prefWidth="200.0" text="Simulador CDB" textAlignment="CENTER"
+					wrapText="true" />
+			</children>
+		</AnchorPane>
+	</center>
+</BorderPane>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.effect.*?>
+<?import javafx.scene.chart.*?>
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.layout.BorderPane?>
+
+<BorderPane fx:id="rootPane" prefHeight="676.0" prefWidth="1159.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="investimento.control.InvestimentoController">
+   <bottom>
+		<AnchorPane prefHeight="676.0" prefWidth="1157.0" BorderPane.alignment="CENTER">
+			<children>
+				<Button layoutX="197.0" layoutY="274.0" mnemonicParsing="false" onAction="#simular" text="Simular" />
+            <VBox alignment="TOP_RIGHT" layoutX="14.0" layoutY="29.0" spacing="20.0">
+               <children>
+      						<Label layoutX="105.0" layoutY="30.0" text="Valor inicial:" />
+      						<Label layoutX="88.0" layoutY="65.0" text="Aporte Mensal:" />
+      						<Label layoutX="63.0" layoutY="100.0" text="Data da Aplicação:" />
+      						<Label layoutX="72.0" layoutY="135.0" text="Data de Resgate:" />
+      						<Label fx:id="lblTaxa" layoutX="56.0" layoutY="170.0" text="Taxa de Juros %a.a (Poupança):" />
+      						<Label fx:id="lbl1" layoutX="63.0" layoutY="205.0" text="Percentual CDB %:" />
+                  <Label fx:id="lbl2" layoutX="63.0" layoutY="237.0" text="Percentual CDB %:" />
+               </children>
+            </VBox>
+            <VBox layoutX="231.0" layoutY="24.0" spacing="10.0">
+               <children>
+      						<TextField fx:id="txtValorInicial" layoutX="267.0" layoutY="24.0" onKeyPressed="#monetaryField" prefHeight="25.0" prefWidth="133.0" />
+      						<TextField fx:id="txtAporte" layoutX="267.0" layoutY="59.0" onKeyPressed="#monetaryField" prefHeight="25.0" prefWidth="133.0" />
+      						<DatePicker fx:id="dataInicial" layoutX="265.0" layoutY="94.0" prefHeight="25.0" prefWidth="135.0" />
+      						<DatePicker fx:id="dataFinal" layoutX="265.0" layoutY="129.0" prefHeight="25.0" prefWidth="135.0" />
+      						<TextField fx:id="txtJuros" layoutX="267.0" layoutY="164.0" onKeyPressed="#porcentageField" prefHeight="25.0" prefWidth="60.0" />
+      						<TextField fx:id="txt1" layoutX="267.0" layoutY="199.0" onKeyPressed="#porcentageField" prefHeight="25.0" prefWidth="67.0" />
+                  <TextField fx:id="txt2" layoutX="267.0" layoutY="231.0" onKeyPressed="#porcentageField" prefHeight="25.0" prefWidth="67.0" />
+               </children>
+            </VBox>
+            <HBox layoutX="25.9619140625" layoutY="516.0" spacing="10.0">
+               <children>
+                  <VBox alignment="TOP_RIGHT" layoutX="26.0" layoutY="516.0" spacing="10.0">
+                     <children>
+            						<Label layoutX="109.0" layoutY="484.0" text="Periodo (em meses):" />
+            						<Label layoutX="143.0" layoutY="514.0" text="Total investido:" />
+            						<Label fx:id="lblAux1" layoutX="164.0" layoutY="544.0" text="Total (CDB):" />
+                        <Label fx:id="lblAux2" layoutX="128.0" layoutY="576.0" text="Total (Poupança):" />
+            						<Label fx:id="lblAux3" layoutX="59.0" layoutY="610.0" text="Total ganho em juros (CDB):" />
+                        <Label fx:id="lblAux4" layoutX="23.0" layoutY="640.0" text="Total ganho em juros (Poupança):" />
+                     </children>
+                  </VBox>
+                  <VBox layoutX="257.0" layoutY="516.0" spacing="10.0">
+                     <children>
+            						<Label fx:id="lblPeriodo" layoutX="254.0" layoutY="486.0" text="Label" />
+            						<Label fx:id="lblTotalInvestido" layoutX="254.0" layoutY="511.0" text="Label" AnchorPane.bottomAnchor="150.0" />
+            						<Label fx:id="lblAux1Desc" layoutX="254.0" layoutY="546.0" text="Label" AnchorPane.bottomAnchor="115.0" />
+                        <Label fx:id="lblAux2Desc" layoutX="254.0" layoutY="578.0" text="Label" />
+            						<Label fx:id="lblAux3Desc" layoutX="254.0" layoutY="610.0" text="Label" AnchorPane.bottomAnchor="43.0" />
+                        <Label fx:id="lblAux4Desc" layoutX="254.0" layoutY="640.0" text="Label" />
+                     </children>
+                  </VBox>
+               </children>
+            </HBox>
+				<Separator layoutX="425.0" layoutY="2.0" orientation="VERTICAL" prefHeight="674.0" prefWidth="0.0" />
+				<StackPane fx:id="pane" layoutX="419.0" layoutY="9.0" prefHeight="662.0" prefWidth="732.0">
+					<children>
+      						<LineChart fx:id="lineChart" prefHeight="662.0" prefWidth="872.0" stylesheets="@Chart.css">
+      							<xAxis>
+      								<CategoryAxis label="Periodo (em meses)" fx:id="xAxis" />
+      							</xAxis>
+      							<yAxis>
+      								<NumberAxis fx:id="yAxis" forceZeroInRange="false" label="Dinheiro" lowerBound="10000.0" side="LEFT" upperBound="10000.0" />
+      							</yAxis>
+      						</LineChart>
+					</children>
+				</StackPane>
+			</children>
+		</AnchorPane>
+   </bottom>
+</BorderPane>

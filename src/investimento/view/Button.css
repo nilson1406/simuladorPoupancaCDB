@@ -1,0 +1,28 @@
+#btnCDB{	
+	-fx-background-image: url("imagens/dinheiro.jpg");
+	-fx-text-fill: white;
+	-fx-font-size: 200.0%;
+}
+#btnCDB:hover{	
+	-fx-background-image: url("imagens/dinheiro2.jpg");
+}
+#btnPoupanca{	
+	-fx-background-image: url("imagens/moedas.jpg");
+	-fx-text-fill: white;
+	-fx-font-size: 200.0%;
+}
+#btnPoupanca:hover{	
+	-fx-background-image: url("imagens/moedas2.jpg");
+}
+#btnComparativo{	
+	-fx-background-image: url("imagens/grafico.jpg");
+	-fx-text-fill: white;
+	-fx-font-size: 200.0%;
+}
+#btnComparativo:hover{	
+	-fx-background-image: url("imagens/grafico2.jpg");
+}
+
+
+
+

@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns2:feriadoList xmlns:ns2="investimento.util">
+    <feriadoList><data>01/01/01</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>26/02/01</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>27/02/01</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>13/04/01</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/01</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/01</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>14/06/01</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/01</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/01</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/01</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/01</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/01</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/02</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>11/02/02</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>12/02/02</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>29/03/02</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/02</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/02</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>30/05/02</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/02</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/02</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/02</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/02</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/02</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/03</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>03/03/03</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>04/03/03</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>18/04/03</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/03</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/03</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>19/06/03</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/03</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/03</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/03</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/03</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/03</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/04</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>23/02/04</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>24/02/04</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>09/04/04</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/04</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/04</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>10/06/04</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/04</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/04</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/04</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/04</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/04</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/05</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>07/02/05</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>08/02/05</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>25/03/05</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/05</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/05</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>26/05/05</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/05</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/05</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/05</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/05</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/05</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/06</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>27/02/06</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>28/02/06</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>14/04/06</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/06</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/06</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>15/06/06</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/06</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/06</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/06</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/06</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/06</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/07</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>19/02/07</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>20/02/07</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>06/04/07</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/07</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/07</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>07/06/07</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/07</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/07</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/07</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/07</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/07</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/08</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>04/02/08</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>05/02/08</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/03/08</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/08</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/08</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>22/05/08</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/08</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/08</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/08</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/08</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/08</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/09</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>23/02/09</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>24/02/09</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>10/04/09</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/09</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/09</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>11/06/09</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/09</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/09</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/09</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/09</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/09</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/10</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>15/02/10</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>16/02/10</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>02/04/10</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/10</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/10</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>03/06/10</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/10</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/10</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/10</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/10</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/10</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/11</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>07/03/11</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>08/03/11</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/04/11</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>22/04/11</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/11</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>23/06/11</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/11</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/11</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/11</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/11</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/11</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/12</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>20/02/12</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/02/12</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>06/04/12</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/12</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/12</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>07/06/12</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/12</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/12</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/12</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/12</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/12</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/13</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>11/02/13</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>12/02/13</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>29/03/13</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/13</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/13</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>30/05/13</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/13</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/13</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/13</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/13</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/13</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/14</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>03/03/14</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>04/03/14</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>18/04/14</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/14</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/14</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>19/06/14</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/14</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/14</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/14</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/14</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/14</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/15</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>16/02/15</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>17/02/15</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>03/04/15</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/15</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/15</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>04/06/15</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/15</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/15</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/15</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/15</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/15</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/16</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>08/02/16</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>09/02/16</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>25/03/16</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/16</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/16</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>26/05/16</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/16</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/16</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/16</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/16</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/16</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/17</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>27/02/17</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>28/02/17</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>14/04/17</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/17</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/17</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>15/06/17</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/17</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/17</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/17</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/17</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/17</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/18</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>12/02/18</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>13/02/18</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>30/03/18</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/18</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/18</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>31/05/18</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/18</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/18</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/18</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/18</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/18</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/19</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>04/03/19</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>05/03/19</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>19/04/19</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/19</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/19</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>20/06/19</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/19</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/19</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/19</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/19</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/19</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/20</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>24/02/20</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>25/02/20</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>10/04/20</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/20</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/20</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>11/06/20</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/20</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/20</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/20</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/20</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/20</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/21</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>15/02/21</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>16/02/21</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>02/04/21</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/21</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/21</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>03/06/21</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/21</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/21</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/21</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/21</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/21</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/22</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>28/02/22</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>01/03/22</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>15/04/22</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/22</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/22</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>16/06/22</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/22</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/22</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/22</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/22</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/22</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/23</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>20/02/23</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/02/23</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>07/04/23</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/23</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/23</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>08/06/23</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/23</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/23</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/23</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/23</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/23</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/24</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>12/02/24</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>13/02/24</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>29/03/24</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/24</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/24</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>30/05/24</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/24</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/24</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/24</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/24</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/24</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/25</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>03/03/25</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>04/03/25</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>18/04/25</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/25</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/25</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>19/06/25</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/25</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/25</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/25</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/25</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/25</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/26</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>16/02/26</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>17/02/26</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>03/04/26</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/26</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/26</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>04/06/26</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/26</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/26</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/26</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/26</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/26</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/27</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>08/02/27</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>09/02/27</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>26/03/27</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/27</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/27</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>27/05/27</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/27</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/27</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/27</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/27</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/27</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/28</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>28/02/28</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>29/02/28</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>14/04/28</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/28</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/28</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>15/06/28</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/28</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/28</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/28</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/28</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/28</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/29</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>12/02/29</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>13/02/29</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>30/03/29</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/29</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/29</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>31/05/29</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/29</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/29</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/29</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/29</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/29</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/30</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>04/03/30</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>05/03/30</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>19/04/30</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/30</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/30</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>20/06/30</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/30</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/30</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/30</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/30</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/30</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/31</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>24/02/31</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>25/02/31</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>11/04/31</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/31</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/31</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>12/06/31</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/31</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/31</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/31</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/31</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/31</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/32</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>09/02/32</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>10/02/32</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>26/03/32</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/32</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/32</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>27/05/32</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/32</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/32</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/32</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/32</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/32</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/33</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>28/02/33</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>01/03/33</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>15/04/33</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/33</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/33</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>16/06/33</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/33</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/33</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/33</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/33</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/33</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/34</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>20/02/34</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/02/34</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>07/04/34</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/34</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/34</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>08/06/34</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/34</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/34</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/34</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/34</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/34</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/35</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>05/02/35</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>06/02/35</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>23/03/35</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/35</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/35</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>24/05/35</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/35</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/35</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/35</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/35</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/35</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/36</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>25/02/36</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>26/02/36</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>11/04/36</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/36</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/36</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>12/06/36</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/36</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/36</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/36</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/36</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/36</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/37</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>16/02/37</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>17/02/37</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>03/04/37</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/37</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/37</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>04/06/37</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/37</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/37</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/37</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/37</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/37</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/38</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>08/03/38</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>09/03/38</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/04/38</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>23/04/38</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>01/05/38</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>24/06/38</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/38</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/38</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/38</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/38</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/38</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/39</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>21/02/39</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>22/02/39</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>08/04/39</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/39</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/39</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>09/06/39</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/39</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/39</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/39</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/39</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/39</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/40</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>13/02/40</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>14/02/40</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>30/03/40</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/40</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/40</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>31/05/40</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/40</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/40</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/40</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/40</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/40</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/41</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>04/03/41</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>05/03/41</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>19/04/41</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/41</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/41</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>20/06/41</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/41</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/41</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/41</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/41</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/41</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/42</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>17/02/42</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>18/02/42</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>04/04/42</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/42</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/42</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>05/06/42</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/42</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/42</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/42</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/42</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/42</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/43</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>09/02/43</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>10/02/43</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>27/03/43</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/43</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/43</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>28/05/43</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/43</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/43</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/43</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/43</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/43</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/44</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>29/02/44</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>01/03/44</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>15/04/44</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/44</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/44</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>16/06/44</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/44</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/44</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/44</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/44</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/44</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/45</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>20/02/45</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>21/02/45</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>07/04/45</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/45</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/45</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>08/06/45</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/45</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/45</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/45</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/45</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/45</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/46</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>05/02/46</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>06/02/46</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>23/03/46</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/46</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/46</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>24/05/46</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/46</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/46</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/46</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/46</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/46</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/47</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>25/02/47</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>26/02/47</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>12/04/47</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/47</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/47</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>13/06/47</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/47</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/47</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/47</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/47</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/47</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/48</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>17/02/48</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>18/02/48</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>03/04/48</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/48</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/48</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>04/06/48</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/48</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/48</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/48</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/48</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/48</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/49</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>01/03/49</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>02/03/49</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>16/04/49</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/49</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/49</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>17/06/49</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/49</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/49</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/49</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/49</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/49</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/50</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>21/02/50</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>22/02/50</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>08/04/50</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/50</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/50</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>09/06/50</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/50</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/50</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/50</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/50</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/50</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/51</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>13/02/51</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>14/02/51</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>31/03/51</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/51</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/51</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>01/06/51</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/51</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/51</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/51</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/51</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/51</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/52</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>04/03/52</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>05/03/52</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>19/04/52</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/52</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/52</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>20/06/52</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/52</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/52</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/52</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/52</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/52</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/53</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>17/02/53</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>18/02/53</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>04/04/53</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/53</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/53</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>05/06/53</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/53</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/53</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/53</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/53</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/53</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/54</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>09/02/54</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>10/02/54</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>27/03/54</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/54</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/54</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>28/05/54</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/54</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/54</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/54</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/54</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/54</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/55</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>01/03/55</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>02/03/55</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>16/04/55</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/55</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/55</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>17/06/55</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/55</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/55</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/55</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/55</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/55</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/56</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>14/02/56</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>15/02/56</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>31/03/56</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/56</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/56</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>01/06/56</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/56</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/56</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/56</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/56</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/56</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/57</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>05/03/57</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>06/03/57</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>20/04/57</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/57</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/57</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>21/06/57</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/57</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/57</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/57</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/57</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/57</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/58</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>25/02/58</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>26/02/58</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>12/04/58</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/58</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/58</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>13/06/58</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/58</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/58</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/58</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/58</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/58</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/59</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>10/02/59</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>11/02/59</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>28/03/59</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/59</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/59</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>29/05/59</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/59</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/59</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/59</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/59</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/59</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/60</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>01/03/60</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>02/03/60</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>16/04/60</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/60</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/60</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>17/06/60</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/60</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/60</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/60</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/60</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/60</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/61</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>21/02/61</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>22/02/61</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>08/04/61</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/61</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/61</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>09/06/61</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/61</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/61</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/61</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/61</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/61</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/62</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>06/02/62</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>07/02/62</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>24/03/62</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/62</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/62</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>25/05/62</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/62</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/62</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/62</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/62</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/62</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/63</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>26/02/63</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>27/02/63</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>13/04/63</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/63</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/63</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>14/06/63</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/63</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/63</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/63</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/63</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/63</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/64</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>18/02/64</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>19/02/64</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>04/04/64</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/64</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/64</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>05/06/64</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/64</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/64</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/64</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/64</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/64</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/65</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>09/02/65</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>10/02/65</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>27/03/65</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/65</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/65</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>28/05/65</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/65</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/65</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/65</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/65</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/65</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/66</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>22/02/66</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>23/02/66</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>09/04/66</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/66</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/66</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>10/06/66</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/66</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/66</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/66</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/66</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/66</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/67</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>14/02/67</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>15/02/67</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>01/04/67</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/67</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/67</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>02/06/67</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/67</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/67</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/67</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/67</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/67</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/68</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>05/03/68</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>06/03/68</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>20/04/68</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/68</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/68</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>21/06/68</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/68</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/68</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/68</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/68</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/68</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/69</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>25/02/69</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>26/02/69</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>12/04/69</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/69</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/69</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>13/06/69</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/69</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/69</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/69</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/69</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/69</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/70</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>10/02/70</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>11/02/70</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>28/03/70</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/70</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/70</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>29/05/70</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/70</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/70</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/70</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/70</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/70</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/71</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>02/03/71</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>03/03/71</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>17/04/71</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/71</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/71</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>18/06/71</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/71</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/71</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/71</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/71</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/71</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/72</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>22/02/72</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>23/02/72</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>08/04/72</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/72</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/72</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>09/06/72</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/72</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/72</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/72</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/72</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/72</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/73</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>06/02/73</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>07/02/73</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>24/03/73</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/73</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/73</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>25/05/73</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/73</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/73</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/73</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/73</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/73</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/74</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>26/02/74</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>27/02/74</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>13/04/74</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/74</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/74</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>14/06/74</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/74</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/74</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/74</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/74</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/74</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/75</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>18/02/75</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>19/02/75</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>05/04/75</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/75</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/75</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>06/06/75</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/75</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/75</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/75</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/75</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/75</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/76</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>02/03/76</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>03/03/76</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>17/04/76</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/76</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/76</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>18/06/76</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/76</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/76</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/76</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/76</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/76</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/77</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>22/02/77</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>23/02/77</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>09/04/77</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/77</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/77</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>10/06/77</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/77</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/77</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/77</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/77</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/77</data>	<descricao>Natal</descricao></feriadoList>
+	<feriadoList><data>01/01/78</data>	<descricao>Confraternização Universal</descricao></feriadoList>
+	<feriadoList><data>14/02/78</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>15/02/78</data>	<descricao>Carnaval</descricao></feriadoList>
+	<feriadoList><data>01/04/78</data>	<descricao>Paixão de Cristo</descricao></feriadoList>
+	<feriadoList><data>21/04/78</data>	<descricao>Tiradentes</descricao></feriadoList>
+	<feriadoList><data>01/05/78</data>	<descricao>Dia do Trabalho</descricao></feriadoList>
+	<feriadoList><data>02/06/78</data>	<descricao>Corpus Christi</descricao></feriadoList>
+	<feriadoList><data>07/09/78</data>	<descricao>Independência do Brasil</descricao></feriadoList>
+	<feriadoList><data>12/10/78</data>	<descricao>Nossa Sr.a Aparecida - Padroeira do Brasil</descricao></feriadoList>
+	<feriadoList><data>02/11/78</data>	<descricao>Finados</descricao></feriadoList>
+	<feriadoList><data>15/11/78</data>	<descricao>Proclamação da República</descricao></feriadoList>
+	<feriadoList><data>25/12/78</data>	<descricao>Natal</descricao></feriadoList>
+</ns2:feriadoList>
